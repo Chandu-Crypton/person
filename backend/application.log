@@ -1,104 +1,62 @@
-2024-07-16 12:56:19 info: A info log
-2024-07-16 12:56:19 error: A error log
-2024-07-16 12:56:19 warn: A warn log
-2024-07-16 12:56:19 debug: A debug log
-2024-07-16 12:56:19 info: Server is running on port 5002
-2024-07-16 12:58:37 info: A info log
-2024-07-16 12:58:37 error: A error log
-2024-07-16 12:58:37 warn: A warn log
-2024-07-16 12:58:37 debug: A debug log
-2024-07-16 12:58:37 info: Server is running on port 5002
-2024-07-16 13:06:51 info: A info log
-2024-07-16 13:06:51 error: A error log
-2024-07-16 13:06:51 warn: A warn log
-2024-07-16 13:06:51 debug: A debug log
-2024-07-16 13:06:51 info: Server is running on port 5002
-2024-07-16 13:10:03 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"DZ","language":"cs","timeZone":"Samoa","currency":"CHF","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 13:11:39 info: A info log
-2024-07-16 13:11:39 error: A error log
-2024-07-16 13:11:39 warn: A warn log
-2024-07-16 13:11:39 debug: A debug log
-2024-07-16 13:11:39 info: Server is running on port 5002
-2024-07-16 13:12:12 info: An error log
-2024-07-16 13:12:14 info: A warn log
-2024-07-16 13:12:15 info: A debug log
-2024-07-16 13:12:26 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"DZ","language":"cs","timeZone":"Samoa","currency":"USD","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 13:12:29 info: An error log
-2024-07-16 13:12:31 info: A warn log
-2024-07-16 13:12:32 info: A debug log
-2024-07-16 13:17:41 info: A info log
-2024-07-16 13:17:41 error: A error log
-2024-07-16 13:17:41 warn: A warn log
-2024-07-16 13:17:41 debug: A debug log
-2024-07-16 13:17:41 info: Server is running on port 5002
-2024-07-16 13:17:50 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"DZ","language":"cs","timeZone":"Samoa","currency":"USD","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 13:18:06 error: An error log
-2024-07-16 13:18:07 warn: A warn log
-2024-07-16 13:18:08 debug: A debug log
-2024-07-16 13:22:30 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"DZ","language":"cs","timeZone":"Mexico City","currency":"USD","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 13:22:33 error: An error log
-2024-07-16 13:22:34 warn: A warn log
-2024-07-16 13:22:35 debug: A debug log
-2024-07-16 13:31:55 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"DZ","language":"cs","timeZone":"Mexico City","currency":"USD","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 13:31:58 error: An error log
-2024-07-16 13:32:04 warn: A warn log
-2024-07-16 13:32:06 debug: A debug log
-2024-07-16 13:37:42 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"DZ","language":"cs","timeZone":"Mexico City","currency":"USD","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 13:41:25 error: An error log
-2024-07-16 13:41:33 warn: A warn log
-2024-07-16 13:41:35 debug: A debug log
-2024-07-16 13:42:14 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"AL","language":"pl","timeZone":"Samoa","currency":"USD","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 13:45:53 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"AX","language":"ca","timeZone":"Monterrey","currency":"USD","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 13:59:36 info: A info log
-2024-07-16 13:59:36 error: A error log
-2024-07-16 13:59:36 warn: A warn log
-2024-07-16 13:59:36 debug: A debug log
-2024-07-16 13:59:36 info: Server is running on port 5002
-2024-07-16 15:06:00 info: A info log
-2024-07-16 15:06:00 error: A error log
-2024-07-16 15:06:00 warn: A warn log
-2024-07-16 15:06:00 debug: A debug log
-2024-07-16 15:06:00 info: Server is running on port 5002
-2024-07-16 15:20:05 info: A info log
-2024-07-16 15:20:05 error: A error log
-2024-07-16 15:20:05 warn: A warn log
-2024-07-16 15:20:05 debug: A debug log
-2024-07-16 15:20:05 info: Server is running on port 5002
-2024-07-16 15:26:41 info: A info log
-2024-07-16 15:26:41 error: A error log
-2024-07-16 15:26:41 warn: A warn log
-2024-07-16 15:26:41 debug: A debug log
-2024-07-16 15:26:41 info: Server is running on port 5002
-2024-07-16 15:33:51 info: A info log
-2024-07-16 15:33:51 error: A error log
-2024-07-16 15:33:51 warn: A warn log
-2024-07-16 15:33:51 debug: A debug log
-2024-07-16 15:33:51 info: Server is running on port 5002
-2024-07-16 15:33:59 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"AX","language":"pl","timeZone":"Samoa","currency":"GBP","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 15:37:03 info: A info log
-2024-07-16 15:37:03 error: A error log
-2024-07-16 15:37:03 warn: A warn log
-2024-07-16 15:37:03 debug: A debug log
-2024-07-16 15:37:03 info: Server is running on port 5002
-2024-07-16 16:01:46 info: A info log
-2024-07-16 16:01:46 error: A error log
-2024-07-16 16:01:46 warn: A warn log
-2024-07-16 16:01:46 debug: A debug log
-2024-07-16 16:01:46 info: Server is running on port 5002
-2024-07-16 16:01:57 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"AZ","language":"cs","timeZone":"Samoa","currency":"GBP","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 16:02:00 error: An error log
-2024-07-16 16:02:01 warn: A warn log
-2024-07-16 16:02:02 debug: A debug log
-2024-07-16 16:06:36 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"AZ","language":"cs","timeZone":"Samoa","currency":"GBP","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 16:07:02 error: An error log
-2024-07-16 16:07:35 warn: A warn log
-2024-07-16 16:07:41 debug: A debug log
-2024-07-16 16:37:50 info: A info log
-2024-07-16 16:37:50 error: A error log
-2024-07-16 16:37:50 warn: A warn log
-2024-07-16 16:37:50 debug: A debug log
-2024-07-16 16:37:51 info: Server is running on port 5002
-2024-07-16 16:40:58 info: Form data submitted successfully: {"avatar":"media/avatars/300-1.jpg","fName":"Max","lName":"Smith","company":"Keenthemes","contactPhone":"044 3276 454 935","companySite":"keenthemes.com","country":"AX","language":"ca","timeZone":"Hawaii","currency":"GBP","communications":{"email":false,"phone":false},"allowMarketing":false}
-2024-07-16 16:41:01 error: An error log
-2024-07-16 16:41:02 warn: A warn log
-2024-07-16 16:41:03 debug: A debug log
+2024-08-30 16:12:57 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-30 16:12:57 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:en, timeZone:Pacific/Pago_Pago, currency:USD}
+2024-08-30 16:12:57 debug: Executing SQL query
+2024-08-30 16:12:57 info: Currency change detected from JPY to USD
+2024-08-30 16:12:58 debug: Data inserted successfully
+2024-08-30 16:12:58 info: Profile updated.
+2024-08-30 17:20:57 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-30 17:20:58 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:en, timeZone:Pacific/Pago_Pago, currency:GBP}
+2024-08-30 17:20:58 debug: Executing SQL query
+2024-08-30 17:20:58 info: Currency change detected from USD to GBP
+2024-08-30 17:20:59 debug: Data inserted successfully
+2024-08-30 17:20:59 info: Profile updated.
+2024-08-31 10:00:41 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-31 10:00:45 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:en, timeZone:Pacific/Pago_Pago, currency:USD}
+2024-08-31 10:00:46 debug: Executing SQL query
+2024-08-31 10:00:47 info: Currency change detected from GBP to USD
+2024-08-31 10:00:48 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-31 10:00:48 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:en, timeZone:Pacific/Pago_Pago, currency:USD}
+2024-08-31 10:00:48 debug: Executing SQL query
+2024-08-31 10:00:50 debug: Data inserted successfully
+2024-08-31 10:00:50 info: Profile updated.
+2024-08-31 10:00:51 debug: Data inserted successfully
+2024-08-31 10:00:51 info: Profile updated.
+2024-08-31 10:09:35 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-31 10:09:35 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:en, timeZone:America/Anchorage, currency:USD}
+2024-08-31 10:09:35 debug: Executing SQL query
+2024-08-31 10:09:35 info: Timezone change detected from Pacific/Pago_Pago to America/Anchorage
+2024-08-31 10:09:35 debug: Data inserted successfully
+2024-08-31 10:09:35 info: Profile updated.
+2024-08-31 10:21:31 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-31 10:21:31 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:en, timeZone:America/Bogota, currency:USD}
+2024-08-31 10:21:31 debug: Executing SQL query
+2024-08-31 10:21:31 info: Timezone change detected from America/Anchorage to America/Bogota
+2024-08-31 10:21:31 debug: Data inserted successfully
+2024-08-31 10:21:31 info: Profile updated.
+2024-08-31 10:32:40 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-31 10:32:40 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:en, timeZone:America/Bogota, currency:AUD}
+2024-08-31 10:32:40 debug: Executing SQL query
+2024-08-31 10:32:40 info: Currency change detected from USD to AUD
+2024-08-31 10:32:40 debug: Data inserted successfully
+2024-08-31 10:32:41 info: Profile updated.
+2024-08-31 10:46:34 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-31 10:46:34 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:fr, timeZone:America/Bogota, currency:AUD}
+2024-08-31 10:46:34 debug: Executing SQL query
+2024-08-31 10:46:34 info: Language change detected from en to fr
+2024-08-31 10:46:34 debug: Data inserted successfully
+2024-08-31 10:46:34 info: Profile updated.
+2024-08-31 10:52:33 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-31 10:52:33 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AU, language:en, timeZone:America/Bogota, currency:AUD}
+2024-08-31 10:52:33 debug: Executing SQL query
+2024-08-31 10:52:33 info: Language change detected from fr to en
+2024-08-31 10:52:33 debug: Data inserted successfully
+2024-08-31 10:52:33 info: Profile updated.
+2024-08-31 12:29:17 warn: Potentially invalid phone number format: 044 3276 454 935
+2024-08-31 12:29:17 info: Form data submitted successfully {avatar:media/avatars/300-1.jpg, fName:Max, lName:Smith, company:Keenthemes, contactPhone:044 3276 454 935, companySite:keenthemes.com, country:AT, language:fr, timeZone:America/Lima, currency:GBP}
+2024-08-31 12:29:17 debug: Executing SQL query
+2024-08-31 12:29:17 info: Currency change detected from AUD to GBP
+2024-08-31 12:29:17 info: Timezone change detected from America/Bogota to America/Lima
+2024-08-31 12:29:17 info: Country change detected from AU to AT
+2024-08-31 12:29:17 info: Language change detected from en to fr
+2024-08-31 12:29:18 debug: Data inserted successfully
+2024-08-31 12:29:18 info: Profile updated.

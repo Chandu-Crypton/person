@@ -1,4 +1,74 @@
 {
+  "countries": {
+    "US": "Estados Unidos",
+    "DE": "Alemania",
+    "FR": "Francia",
+    "AF": "Afganistán",
+    "AX": "Islas Aland",
+    "AL": "Albania",
+    "DZ": "Argelia",
+    "AS": "Samoa Americana",
+    "AD": "Andorra",
+    "AO": "Angola",
+    "AI": "Anguila",
+    "AQ": "Antártida",
+    "AG": "Antigua y Barbuda",
+    "AR": "Argentina",
+    "AM": "Armenia",
+    "AW": "Aruba",
+    "AU": "Australia",
+    "AT": "Austria",
+    "AZ": "Azerbaiyán",
+    "BS": "bahamas",
+    "BH": "Bahréin",
+    "BD": "Bangladesh",
+    "BB": "Barbados",
+    "BY": "Bielorrusia",
+    "BE": "Bélgica"
+  },
+  "languages":{
+    "es": "español"
+  },
+  "currencies":{
+  "USD" : "El precio seleccionado es ",
+  "GBP" : "El precio seleccionado es ",
+  "AUD" : "El precio seleccionado es ",
+  "JPY" : "El precio seleccionado es ",
+  "SEK" : "El precio seleccionado es ",
+  "CAD" : "El precio seleccionado es ", 
+  "CHF" : "El precio seleccionado es "
+},
+"timezones":
+ 
+{
+  "Pacific/Midway": "(GMT-11:00) Línea de fecha internacional oeste",
+  "Pacific/midway":
+  "(GMT-11:00) Isla Midway",
+
+"Pacific/Pago_Pago": "(GMT-11:00) Samoa",
+"Pacific/Honolulu":"(GMT-10:00) Hawai",
+"America/Anchorage": "(GMT-08:00) Alaska",
+"America/Los_Angeles":
+  "(GMT-07:00) Hora del Pacífico (EE. UU. y Canadá)",
+"America/Tijuana": "(GMT-07:00) Tijuana",
+"America/Phoenix": "(GMT-07:00) Arizona",
+"America/Denver": "(GMT-06:00) Hora de la montaña (EE. UU. y Canadá)",
+"America/Chihuahua": "(GMT-06:00) chihuahua",
+"America/Mazatlan": "(GMT-06:00) Mazatlán",
+"America/Regina": "(GMT-06:00) Saskatchewan",
+"America/Guatemala": "(GMT-06:00) Centroamérica",
+"America/Chicago": "(GMT-05:00) Hora central (EE. UU. y Canadá)",
+"America/Guadalajara": "(GMT-05:00) Guadalajara",
+"America/Mexico_City": "(GMT-05:00) Ciudad de México",
+"America/Monterrey": "(GMT-05:00) Monterrey",
+"America/Bogota": "(GMT-05:00) Bogotá",
+"America/Lima": "(GMT-05:00) Lima",
+"Asia/Dubai": "(GMT+04:00) Abu Dhabi",
+"Asia/Kolkata": "(GMT+05:30) Calcuta",
+"Asia/Chennai": "(GMT+05:30) Chennai",
+"Asia/Mumbai": "(GMT+05:30) Bombay",
+"Asia/Delhi": "(GMT+05:30) Nueva Delhi"
+},
   "TRANSLATOR.SELECT": "Elige tu idioma",
   "MENU.NEW": "nuevo",
   "MENU.ACTIONS": "Comportamiento",
@@ -7,6 +77,14 @@
   "MENU.FEATURES": "Caracteristicas",
   "MENU.APPS": "Aplicaciones",
   "MENU.DASHBOARD": "Tablero",
+  "Pricing.Plans": "Planes de precios",
+  "NAME": "Max Smith",
+  "Upgrade to pro": "actualizar a profesional",
+  "Developer": "Desarrollador",
+  "Follow": "Seguir",
+  "Hire Me": "Contratame",
+  "Created Time": "Hora de creación :",
+  "MENU.CRAFETD": "unavailable(es)",
   "AUTH.GENERAL.OR": "O",
   "AUTH.GENERAL.SUBMIT_BUTTON": "Enviar",
   "AUTH.GENERAL.NO_ACCOUNT": "No tienes una cuenta?",
@@ -65,5 +143,16 @@
   "ECOMMERCE.CUSTOMERS.UPDATE_STATUS.TITLE": "Status has been updated for selected customers",
   "ECOMMERCE.CUSTOMERS.UPDATE_STATUS.MESSAGE": "Selected customers status have successfully been updated",
   "ECOMMERCE.CUSTOMERS.EDIT.UPDATE_MESSAGE": "Customer has been updated",
-  "ECOMMERCE.CUSTOMERS.EDIT.ADD_MESSAGE": "Customer has been created"
+  "ECOMMERCE.CUSTOMERS.EDIT.ADD_MESSAGE": "Customer has been created",
+  
+  "PROFILE.NAME": "Name",
+  "PROFILE.COUNTRY": "Country",
+  "PROFILE.TIMEZONE": "Timezone",
+  "PROFILE.CURRENCY": "Currency",
+  "PROFILE.SUBMIT": "Submit",
+  "PROFILE.SUMMARY_TITLE": "Profile Summary"
+
+  
+
+
 }

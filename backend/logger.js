@@ -4,6 +4,7 @@ const logger = createLogger({
 
     level: 'debug',
     format: format.combine(
+
         format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
         format.printf(({ timestamp, level, message }) => `${timestamp} ${level}: ${message}`)
     ),
@@ -13,8 +14,4 @@ const logger = createLogger({
     ]
 });
 
-logger.info('A info log')
-logger.error('A error log')
-logger.warn('A warn log')
-logger.debug('A debug log')
 module.exports = logger;
